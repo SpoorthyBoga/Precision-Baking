@@ -1,0 +1,36 @@
+# Ignore Python virtual environments
+Backend/backend-env/
+venv/
+env/
+*.dll
+*.pyd
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore large dependency libraries
+*.dll
+*.lib
+*.so
+*.dylib
+*.pdb
+
+# Ignore environment configuration files
+.env
+*.log
+
+# Ignore node_modules (if using Node.js for frontend)
+node_modules/
+
+Backend/backend-env/
+Backend/backend-env/
